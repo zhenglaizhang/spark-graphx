@@ -22,3 +22,6 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+# in case run spark-shell at the repo root
+metastore_db/
